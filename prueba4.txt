@@ -1,3 +1,5 @@
 prueba fetch merge
 pull push push
 prueba branch master 2
+prueba stash
+prueba stash 2
